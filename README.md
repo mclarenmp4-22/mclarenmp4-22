@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mclarenmp4-22
 - 👀 I’m interested in Formula One.
-- 📖 Languages I know — Python, JavaScript, HTML, CSS, SQL
+- 📖 Languages I know — Python, JavaScript, HTML, CSS, SQL (SQLite)
 - 😄 Pronouns: he/him
 
 
