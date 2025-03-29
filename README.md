@@ -2,6 +2,7 @@
 - 👀 I’m interested in Formula One.
 - 📖 Languages I know — Python, JavaScript, HTML, CSS, SQL (SQLite)
 - 😄 Pronouns: he/him
+- 📅 Born: 2 January 2011
 - P.S: If you have enough F1 knowledge to say that "the McLaren MP4-22 is a Ferrari", it is not. No evidence of Ferrari intellectual property being used in the McLaren MP4-22 was found.
 
 <!---
